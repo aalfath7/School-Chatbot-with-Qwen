@@ -1,0 +1,251 @@
+# DATA RESMI SEKOLAH — UNTUK CHATBOT
+
+> PETUNJUK UNTUK ADMIN: Semua isi di bawah adalah CONTOH FIKTIF dan tidak merujuk ke sekolah, orang, tempat, nomor, atau akun yang nyata. Ganti setiap nilai dengan data asli sekolah sebelum dipakai. Hapus bagian yang tidak berlaku. Tulis fakta saja, singkat, satu informasi per baris. Perbarui tanggal di bawah setiap kali data diubah.
+>
+> Terakhir diperbarui: 30 Oktober 2026
+> Tahun ajaran berjalan: 2026/2027
+
+---
+
+## 1. PROFIL SEKOLAH
+- Nama: SMP Islam Terpadu Nurkelana (fiktif)
+- Jenjang: SMP (kelas 7, 8, 9)
+- Status: Swasta, terakreditasi A
+- NPSN: 00000000 (contoh)
+- Yayasan: Yayasan Nurkelana Contohpura
+- Kepala sekolah: Ustadz Fulan, S.Pd.
+- Tahun berdiri: 2012
+- Jumlah siswa: sekitar 320 siswa (12 rombel)
+- Kelas putra dan putri dipisah.
+- Kurikulum: Kurikulum Merdeka + kurikulum kepesantrenan (tahfidz dan bahasa Arab)
+
+## 2. VISI DAN MISI
+- Visi: Mencetak generasi Qur'ani yang berakhlak mulia, cerdas, dan mandiri.
+- Misi:
+  1. Membiasakan ibadah dan adab islami dalam kehidupan sehari-hari.
+  2. Menyelenggarakan pembelajaran Al-Qur'an dengan target hafalan terukur.
+  3. Mengembangkan kemampuan akademik, teknologi, dan bahasa.
+  4. Menumbuhkan kemandirian dan kepemimpinan siswa.
+
+## 3. ALAMAT, KONTAK, DAN JAM LAYANAN
+- Alamat: Jl. Contoh Raya No. 1, Kel. Contohsari, Kota Contohpura, Provinsi Contoh Jaya 00000
+- Patokan: 200 meter setelah Masjid Contoh, sebelah kiri jalan.
+- WhatsApp Tata Usaha (TU): 0000-0000-0001
+- WhatsApp Panitia PPDB: 0000-0000-0002
+- Telepon kantor: (000) 000000
+- Email: info@nurkelana.example
+- Website: nurkelana.example
+- Instagram: @contoh.sekolahfiktif
+- Jam layanan TU: Senin–Jumat 07.30–15.00 WIB. Sabtu, Ahad, dan hari libur tutup.
+- Pesan WhatsApp di luar jam layanan dibalas pada hari kerja berikutnya.
+
+### Kontak per urusan
+| Urusan | Hubungi |
+|---|---|
+| Pendaftaran siswa baru (PPDB) | Panitia PPDB, 0000-0000-0002 |
+| Pembayaran SPP dan keuangan | TU bagian keuangan, 0000-0000-0001 |
+| Izin sakit / izin tidak masuk | Wali kelas masing-masing |
+| Surat keterangan, legalisir, mutasi | TU, 0000-0000-0001 |
+| Program tahfidz | Koordinator tahfidz melalui wali kelas |
+| Keluhan dan saran | TU, atau kotak saran di lobi sekolah |
+
+## 4. JAM BELAJAR
+- Senin–Kamis: 07.00–15.00 WIB
+- Jumat: 07.00–11.30 WIB
+- Sabtu dan Ahad: libur (kecuali ada kegiatan terjadwal)
+- Siswa wajib hadir paling lambat 06.50 WIB.
+- Kegiatan pagi: 07.00–07.30 murajaah (mengulang hafalan) dan doa pagi.
+- Sholat Dhuha berjamaah setiap hari pukul 09.30.
+- Sholat Dzuhur berjamaah di masjid sekolah.
+- Penjemputan: maksimal pukul 15.30 (Senin–Kamis) dan 12.00 (Jumat).
+
+## 5. KALENDER AKADEMIK 2026/2027 (RINGKAS)
+- Awal tahun ajaran: 13 Juli 2026
+- Masa Pengenalan Lingkungan Sekolah (MPLS): 13–15 Juli 2026
+- Penilaian Tengah Semester (PTS) ganjil: 21–25 September 2026
+- Penilaian Akhir Semester (PAS) ganjil: 30 November – 5 Desember 2026
+- Pembagian rapor semester ganjil: 18 Desember 2026
+- Libur semester ganjil: 21 Desember 2026 – 3 Januari 2027
+- Awal semester genap: 4 Januari 2027
+- Libur awal Ramadhan: mengikuti keputusan yayasan, diumumkan menjelang Ramadhan
+- Libur Idul Fitri: mengikuti SKB pemerintah, diumumkan kemudian
+- Ujian/asesmen akhir kelas 9: April 2027
+- Wisuda tahfidz dan perpisahan kelas 9: Juni 2027
+- Pembagian rapor semester genap: 25 Juni 2027
+- Tanggal yang belum pasti selalu diumumkan resmi lewat grup WhatsApp wali kelas dan Instagram sekolah.
+
+## 6. PENERIMAAN SISWA BARU (PPDB) 2027/2028
+### Jadwal
+- Gelombang 1: 1 Desember 2026 – 31 Januari 2027
+- Gelombang 2: 1 Februari – 31 Maret 2027 (jika kuota masih tersedia)
+- Kuota: 96 siswa (48 putra, 48 putri)
+- Pendaftaran ditutup lebih awal jika kuota penuh.
+
+### Cara mendaftar
+1. Isi formulir online di nurkelana.example/ppdb, atau datang langsung ke TU.
+2. Bayar biaya pendaftaran.
+3. Unggah atau serahkan berkas persyaratan.
+4. Ikuti tes masuk sesuai jadwal yang dikirim panitia.
+5. Pengumuman hasil paling lambat 7 hari kerja setelah tes, melalui WhatsApp.
+6. Lakukan daftar ulang dan bayar uang pangkal sesuai batas waktu.
+
+### Syarat berkas
+- Fotokopi akta kelahiran (1 lembar)
+- Fotokopi Kartu Keluarga (1 lembar)
+- Fotokopi rapor kelas 5 dan kelas 6 semester 1 (dilegalisir)
+- Pas foto berwarna 3x4 (4 lembar)
+- Fotokopi KTP kedua orang tua
+- Surat keterangan sehat dari puskesmas atau dokter
+- Usia maksimal 15 tahun per 1 Juli 2027
+
+### Tes masuk
+- Tes baca Al-Qur'an (kelancaran dan makharijul huruf)
+- Tes potensi akademik dasar (Matematika dan Bahasa Indonesia)
+- Wawancara calon siswa dan orang tua
+- Tidak ada syarat minimal hafalan. Hafalan yang dimiliki menjadi nilai tambah.
+
+### Diskon PPDB
+- Diskon 25% uang pangkal untuk pendaftar gelombang 1.
+- Diskon 10% uang pangkal untuk saudara kandung siswa aktif.
+- Diskon tidak dapat digabung; yang berlaku adalah diskon terbesar.
+
+## 7. BIAYA PENDIDIKAN 2027/2028
+| Komponen | Biaya | Keterangan |
+|---|---|---|
+| Biaya pendaftaran | Rp300.000 | Sekali bayar, tidak dapat dikembalikan |
+| Uang pangkal | Rp6.000.000 | Sekali selama sekolah, bisa dicicil 3 kali |
+| SPP bulanan | Rp650.000 | Sudah termasuk program tahfidz |
+| Seragam (5 stel) | Rp1.400.000 | Dibayar saat daftar ulang |
+| Buku dan modul per tahun | Rp900.000 | Dibayar setiap awal tahun ajaran |
+| Kegiatan tahunan | Rp750.000 | Termasuk MPLS, outing, dan kegiatan hari besar Islam |
+
+- Uang pangkal yang sudah dibayar tidak dapat dikembalikan jika siswa mengundurkan diri, kecuali pengunduran diri sebelum 1 Mei 2027 (dikembalikan 50%).
+- Biaya katering dan antar jemput terpisah (lihat bagian 11).
+- Biaya bisa berubah setiap tahun ajaran. Angka di atas berlaku untuk tahun ajaran 2027/2028.
+
+## 8. PEMBAYARAN
+- SPP dibayar paling lambat tanggal 10 setiap bulan.
+- Cara bayar: transfer ke rekening resmi yayasan. Nomor rekening hanya diberikan oleh TU bagian keuangan melalui nomor resmi 0000-0000-0001.
+- Setelah transfer, kirim bukti transfer beserta nama siswa dan kelas ke WhatsApp TU.
+- Sekolah tidak pernah meminta transfer ke rekening pribadi atas nama guru atau staf.
+- Keterlambatan SPP lebih dari 3 bulan: orang tua diundang untuk bermusyawarah dengan bagian keuangan.
+- Keringanan atau penjadwalan ulang pembayaran bisa diajukan langsung ke bagian keuangan.
+
+## 9. BEASISWA
+- Beasiswa prestasi: potongan SPP 50% selama 1 tahun untuk peringkat 1 paralel setiap angkatan.
+- Beasiswa tahfidz: potongan SPP 50% selama 1 tahun bagi siswa yang menyelesaikan 5 juz dengan nilai mumtaz.
+- Beasiswa yatim/dhuafa: potongan SPP hingga 100%, kuota terbatas, dengan seleksi berkas dan survei.
+- Pengajuan beasiswa dibuka setiap Juni melalui TU.
+
+## 10. PROGRAM UNGGULAN
+### Tahfidz Al-Qur'an
+- Target hafalan: minimal 3 juz selama 3 tahun (juz 30, 29, dan 28).
+- Kelas unggulan tahfidz (seleksi): target 5 juz.
+- Setoran hafalan setiap hari dengan metode talaqqi per kelompok (1 guru : 10–12 siswa).
+- Ujian tahfidz setiap akhir semester.
+- Laporan perkembangan hafalan dibagikan bersama rapor.
+
+### Bahasa
+- Bahasa Arab: 4 jam pelajaran per pekan.
+- Bahasa Inggris: 4 jam pelajaran per pekan, ditambah English Day setiap Kamis.
+
+### Teknologi
+- Pelajaran informatika dan coding dasar di kelas 7 dan 8.
+- Laboratorium komputer 30 unit.
+
+## 11. LAYANAN PENDUKUNG
+### Katering makan siang
+- Opsional, Rp15.000 per hari, ditagih bulanan.
+- Menu disusun oleh ahli gizi dan diumumkan setiap pekan.
+- Pendaftaran dan pemberhentian katering paling lambat tanggal 25 untuk bulan berikutnya.
+
+### Antar jemput
+- Opsional, tersedia untuk wilayah Kota Contohpura.
+- Biaya Rp350.000–Rp550.000 per bulan, tergantung jarak.
+- Pendaftaran melalui TU; kuota kursi terbatas.
+
+### Layanan kesehatan
+- Tersedia UKS dengan petugas jaga pada jam sekolah.
+- Siswa yang sakit di sekolah akan dihubungi orang tuanya untuk dijemput.
+
+### Bimbingan konseling (BK)
+- Guru BK tersedia untuk konsultasi siswa dan orang tua dengan janji temu melalui wali kelas.
+
+## 12. EKSTRAKURIKULER
+- Wajib: Pramuka (kelas 7 dan 8), setiap Jumat 13.00–15.00.
+- Pilihan (boleh memilih maksimal 2):
+  - Robotik (Selasa 15.00–16.30)
+  - Panahan (Rabu 15.00–16.30)
+  - Futsal, putra (Kamis 15.00–16.30)
+  - Bola voli, putri (Kamis 15.00–16.30)
+  - Kaligrafi (Selasa 15.00–16.30)
+  - Jurnalistik dan desain (Rabu 15.00–16.30)
+  - Tilawah (Senin 15.00–16.30)
+- Biaya ekstrakurikuler pilihan sudah termasuk dalam SPP, kecuali perlengkapan pribadi (misalnya busur panahan dan sepatu futsal).
+
+## 13. FASILITAS
+- Masjid sekolah
+- 12 ruang kelas ber-AC
+- Laboratorium komputer dan laboratorium IPA
+- Perpustakaan
+- Lapangan futsal dan lapangan panahan
+- UKS
+- Kantin sehat
+- CCTV di area sekolah
+
+## 14. SERAGAM
+- Senin–Selasa: putih biru, dengan peci (putra) atau kerudung putih (putri)
+- Rabu–Kamis: batik sekolah
+- Jumat: baju muslim/koko sekolah, atau seragam pramuka saat kegiatan pramuka
+- Olahraga: kaos olahraga sekolah sesuai jadwal kelas
+- Sepatu hitam polos dan kaos kaki putih
+- Putri wajib memakai rok panjang dan kerudung menutup dada.
+
+## 15. TATA TERTIB UTAMA
+- Datang tepat waktu; terlambat 3 kali dalam sebulan, orang tua dihubungi wali kelas.
+- HP tidak boleh dibawa ke kelas. Jika membawa HP, wajib dititipkan ke wali kelas saat jam masuk dan diambil saat pulang.
+- Dilarang membawa barang berharga berlebihan, rokok, dan benda tajam.
+- Rambut putra rapi dan pendek, tidak diwarnai.
+- Pelanggaran ditangani bertahap: teguran, surat peringatan, dan panggilan orang tua.
+
+## 16. IZIN, SAKIT, DAN KETIDAKHADIRAN
+- Izin sakit: orang tua mengirim pesan ke wali kelas sebelum pukul 07.00 pada hari itu.
+- Sakit lebih dari 3 hari: wajib menyertakan surat keterangan dokter.
+- Izin keperluan keluarga: diajukan ke wali kelas paling lambat 1 hari sebelumnya.
+- Izin pulang lebih awal: orang tua atau wali yang terdaftar menjemput langsung dan mengisi buku izin di pos satpam.
+- Tidak hadir tanpa keterangan 3 hari berturut-turut: wali kelas menghubungi orang tua.
+
+## 17. PENILAIAN DAN RAPOR
+- Rapor dibagikan 2 kali setahun (akhir semester ganjil dan genap) dan wajib diambil langsung oleh orang tua/wali.
+- Rapor terdiri dari rapor akademik dan rapor tahfidz.
+- Remedial diberikan bagi siswa yang belum mencapai kriteria ketercapaian.
+- Pertemuan orang tua dan wali kelas diadakan setiap awal semester.
+
+## 18. PINDAHAN (MUTASI) SISWA
+- Pindah masuk: diterima di kelas 7 dan 8 jika kuota tersedia. Syarat: surat pindah dari sekolah asal, rapor, dan tes baca Al-Qur'an.
+- Pindah keluar: orang tua mengajukan surat permohonan ke TU. Surat mutasi diproses maksimal 7 hari kerja setelah administrasi keuangan selesai.
+
+## 19. PERTANYAAN YANG SERING DIAJUKAN (FAQ)
+- T: Apakah anak harus sudah hafal juz 30 untuk mendaftar?
+  J: Tidak wajib. Hafalan menjadi nilai tambah, tetapi tidak menjadi syarat masuk.
+- T: Apakah anak yang belum lancar membaca Al-Qur'an bisa diterima?
+  J: Bisa. Hasil tes baca dipakai untuk menempatkan siswa di kelompok tahsin yang sesuai.
+- T: Apakah ada asrama/boarding?
+  J: Tidak. Sekolah ini full day school tanpa asrama.
+- T: Apakah uang pangkal bisa dicicil?
+  J: Bisa, maksimal 3 kali cicilan dan harus lunas sebelum awal tahun ajaran.
+- T: Apakah boleh membawa HP?
+  J: Boleh dibawa, tetapi wajib dititipkan ke wali kelas selama jam sekolah.
+- T: Apakah ada kelas campur putra-putri?
+  J: Tidak. Kelas putra dan putri dipisah.
+- T: Bagaimana cara mengetahui perkembangan hafalan anak?
+  J: Melalui laporan tahfidz di rapor, dan bisa menanyakan ke wali kelas kapan saja.
+- T: Apakah sekolah menerima siswa berkebutuhan khusus?
+  J: Silakan konsultasikan langsung dengan panitia PPDB agar kebutuhan anak dapat dibicarakan dengan tepat.
+
+## 20. INFORMASI YANG TIDAK BOLEH DIBERIKAN CHATBOT
+- Nilai, peringkat, data pribadi, atau data pembayaran siswa tertentu.
+- Nomor HP pribadi guru dan staf.
+- Nomor rekening (hanya diberikan oleh TU melalui nomor resmi).
+- Keputusan penerimaan siswa, keringanan biaya, atau beasiswa (hanya diputuskan oleh panitia/bagian keuangan).
+Untuk hal-hal di atas, arahkan pengguna ke kontak yang sesuai di bagian 3.

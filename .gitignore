@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Rahasia (API key)
+.env
+
+# Gradio
+.gradio/
